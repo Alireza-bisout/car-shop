@@ -6,8 +6,8 @@ export default function Layout({ children }) {
         <>
             <header className={styles.header}>
                 <Link href='/'>
-                    <h2>Car Shop</h2>
-                    <p>choose an buy your car</p>
+                    <h2>فروشگاه ماشین</h2>
+                    <p>هر ماشینی بخوای داریم</p>
                 </Link>
             </header>
             <div className={styles.container}>
